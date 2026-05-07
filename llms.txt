@@ -1,0 +1,52 @@
+# Geotechnique — Aubervilliers
+
+> Geotechnical engineering services in Aubervilliers, France.
+
+## Services
+- [Amelioration Sols](https://aubervilliers.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://aubervilliers.geotechnique.biz/ancrages/)
+- [Cbr Routier](https://aubervilliers.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://aubervilliers.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://aubervilliers.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://aubervilliers.geotechnique.biz/colonnes-ballastees/)
+- [Confidentialite](https://aubervilliers.geotechnique.biz/confidentialite/)
+- [Densite Cone Sable](https://aubervilliers.geotechnique.biz/densite-cone-sable/)
+- [Essai Cpt](https://aubervilliers.geotechnique.biz/essai-cpt/)
+- [Essais Proctor](https://aubervilliers.geotechnique.biz/essais-proctor/)
+- [Excavations](https://aubervilliers.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://aubervilliers.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://aubervilliers.geotechnique.biz/fondations/)
+- [Geotechnique Routiere](https://aubervilliers.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://aubervilliers.geotechnique.biz/granulometrie/)
+- [Injections](https://aubervilliers.geotechnique.biz/injections/)
+- [Investigation](https://aubervilliers.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://aubervilliers.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://aubervilliers.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://aubervilliers.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://aubervilliers.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://aubervilliers.geotechnique.biz/liquefaction/)
+- [Masw](https://aubervilliers.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://aubervilliers.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://aubervilliers.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://aubervilliers.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://aubervilliers.geotechnique.biz/pieux/)
+- [Puits Inspection](https://aubervilliers.geotechnique.biz/puits-inspection/)
+- [Radiers](https://aubervilliers.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://aubervilliers.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://aubervilliers.geotechnique.biz/resistivite/)
+- [Semelles](https://aubervilliers.geotechnique.biz/semelles/)
+- [Sismique](https://aubervilliers.geotechnique.biz/sismique/)
+- [Sondages Spt](https://aubervilliers.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://aubervilliers.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://aubervilliers.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://aubervilliers.geotechnique.biz/talus/)
+- [Triaxial](https://aubervilliers.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://aubervilliers.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://aubervilliers.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://aubervilliers.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Aubervilliers, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
